@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blanchedalmond;
+}
+.container{
+    width: 75%;
+    max-width: 1440;
+    margin: 0 auto;
+}
+.bannerhead{
+    display: flex ;
+    align-items: center;
+    justify-content: space-between ;
+}
